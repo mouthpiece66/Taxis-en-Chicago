@@ -1,6 +1,7 @@
 # Taxis-en-Chicago
 
-##Análisis de Taxis en Chicago y Prueba de Hipótesis
+## Análisis de Taxis en Chicago y Prueba de Hipótesis
+
 Analizar los datos de viajes en taxi en Chicago para entender el comportamiento de las empresas y las zonas con mayor actividad, además de probar una hipótesis estadística relacionada con la duración de los viajes en función del clima.
 
 
