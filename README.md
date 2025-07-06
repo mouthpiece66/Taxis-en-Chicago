@@ -16,4 +16,4 @@ Tecnologías utilizadas:
 
 Conclusión general:
 
-Este proyecto permitió obtener información relevante sobre las compañías y zonas más activas en los viajes en taxi en Chicago, con un análisis visual  Además, mediante una prueba estadística, se concluyó que las condiciones de lluvia no alteran significativamente la duración de los viajes entre el Loop y el Aeropuerto O’Hare, lo cual resulta útil para la planificación operativa sin necesidad de modificar estimaciones por clima.
+Este proyecto permitió obtener información relevante sobre las compañías y zonas más activas en los viajes en taxi en Chicago, con un análisis visual.También mediante una prueba estadística, se concluyó que las condiciones de lluvia no alteran significativamente la duración de los viajes entre el Loop y el Aeropuerto O’Hare, lo cual resulta útil para la planificación operativa sin necesidad de modificar estimaciones por clima.
