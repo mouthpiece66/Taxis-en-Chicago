@@ -6,6 +6,7 @@ Analizar los datos de viajes en taxi en Chicago para entender el comportamiento 
 
 
 •	Análisis exploratorio de dos conjuntos de datos sobre viajes de taxis en noviembre de 2017, uno con información por compañía y otro con promedios por barrios.
+
 •	Prueba de hipótesis sobre si las condiciones climáticas (lluvia) los sábados afectan la duración promedio de los viajes desde el Loop al Aeropuerto Internacional O'Hare.
 
 
